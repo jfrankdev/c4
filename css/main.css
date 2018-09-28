@@ -1,0 +1,122 @@
+body {
+background-image: url("http://getwallpapers.com/wallpaper/full/6/8/d/504388.jpg");
+text-align: center;
+position: relative;
+}
+
+h1 {
+	margin: auto;
+	color: white;
+	text-shadow: 2px 2px black;
+	font-size: 50px;
+	font-family: 'Monoton', cursive;
+}
+
+h2 {
+	position: relative;
+    top: -15px;
+    margin: auto;
+    color: purple;
+    font-size: 33px;
+	font-family: 'Fredoka One', cursive;
+	-webkit-text-stroke: .5px white;
+}
+
+table {
+	margin: auto;
+	position: relative;
+    top: -56px;
+	width: 600px;
+	height: 500px;
+	border-radius: 5%;
+	background-color: lightpink;
+}
+
+td {
+	border-radius: 50%;
+	background-color: white;
+}
+
+div {
+	position: relative;
+	text-align: center;
+    top: -22px;
+	margin: auto;
+	width: 600px;
+	height: 70px;
+}
+
+#slot {
+	margin: auto;
+    margin-top: 31px;
+}
+
+button {
+	background-color: lightpink;
+	border-radius: 20%;
+	color: rgb(247, 85, 49);
+	font-size: 20px;
+	height: 30px;
+	width: 70px;
+	cursor: pointer;
+	font-family: 'Monoton', cursive;
+}
+
+#reset {
+	text-align: center;
+	padding: 2px;
+	width: 120px;
+	height: 40px;
+	color: rgb(35, 153, 182);
+	background-color: yellow;
+	border-radius: 10%;
+	font-weight: bold;
+	font-size: 20px;
+	margin: auto;
+	position: relative;
+	top: -46px;
+	border: 2px solid rgb(247, 85, 49);
+}
+
+footer {
+	text-align: center;
+}
+
+#pop-up-box {
+	height: 300px;
+	width: 300px;
+	color: linen;
+	display: none;
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+	text-align: center;
+	font-size: 50px;
+	background-image: url("https://i.imgur.com/IRSP7ew.png");
+	background-size: auto 100%;
+    background-repeat: no-repeat;
+    background-position: left top;
+}
+
+#playAgain {
+	width: 200px;
+    height: 50px;
+    color: black;
+	font-size: 20px;
+    position: absolute;
+    top: -64px;
+	right: 48px;
+	font-family: 'Monoton', cursive;
+	background-image: url("https://i.imgur.com/DdXwCRT.png");
+}
+
+p {
+	position: relative;
+    top: 4px;
+	text-align: center;
+	font-size: 25px;
+	font-family: 'Fredoka One', cursive;
+	-webkit-text-stroke: .5px white;
+	color: red;
+}
